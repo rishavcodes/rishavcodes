@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rishavcodes" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m a **React.js** Developer
 
 <img src="https://firebasestorage.googleapis.com/v0/b/fir-e1cc4.appspot.com/o/laptops-593296.jpg?alt=media&token=d5244c4a-7119-4ecf-888c-6662be50ee02" width="450" align="right"/>
 
