@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Frontend and leadership skills**
 
-- 📫  Reach me at **rjnycusa397@gmail.com**
+- 📫  Reach me at **work.rishavjha@gmail.com**
 
 - ⚡ Fun fact :: **Now When I listen about papers I immediately search for google about any possibility of covid that time...**
 
