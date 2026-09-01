@@ -1,15 +1,7 @@
 <h1 align="center">Hi, I'm Rishav Jha 👋</h1>
-<h3 align="center">Tech Lead & Full-Stack Engineer — Fintech / JS-TS / React / Node / AWS</h3>
+<h3 align="center">Tech Lead & Full-Stack Engineer — Fintech / JS-TS / React-Next / Node-Express / AWS-DigitalOcean</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavcodes&label=Profile%20views&color=0e75b6&style=flat" alt="rishavcodes" /> </p>
-
-I'm a Tech Lead building a SEBI-compliant fintech SaaS platform end to end — system design, payments (Razorpay), identity/compliance integrations (DigiLocker, Protean eSign), and CI/CD on AWS. I lead a team of 4+ engineers shipping production features across portfolio management, CRM, and compliance.
-
-- 🔭 Currently: Tech Lead at Trade Box Fintech Solutions — 20+ production features, 90+ advisory firms on the platform
-- 🛠️ Stack: React / Next.js / Node.js / Express / TypeScript / MongoDB / Redis / AWS (ECS, ECR, S3) / Docker / GitHub Actions
-- 💳 Deep experience with payment & identity APIs: Razorpay, Stripe, DigiLocker, Protean eSign
-- 📈 Cut deployment time 70%+ building CI/CD pipelines from scratch
-- 📫 Reach me: work.rishavjha@gmail.com | [LinkedIn](https://linkedin.com/in/rishav9661)
 
 ### Tech I work with
 <p align="left">
