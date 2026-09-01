@@ -22,6 +22,3 @@
 <img src="https://cdn.simpleicons.org/cursor/black" alt="cursor" width="36" height="36"/>
 <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="36" height="36"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavcodes&show_icons=true&theme=dark&background=0d1117&locale=en&text_color=ffffff&layout=compact" alt="rishavcodes" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavcodes&theme=dark&background=0d1117&show_icons=true&locale=en" alt="rishavcodes" /></p>
